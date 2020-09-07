@@ -14,6 +14,15 @@
 <br />
 <br />
 
+### Fun projects
+
+- [github-careers](https://lucasdecastro.github.io/github-careers/#/) It's a project to help people to find a job.
+- [snake-game](https://lucasdecastro.github.io/snake-game/) It's one day project.
+- [corona-timer](https://lucasdecastro.github.io/corona-timer/) It's just a counter of my days in quarantine.
+
+<br />
+<br />
+
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucasdecastro&show_icons=true&hide_border=true" />
