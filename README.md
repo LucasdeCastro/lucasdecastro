@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Lucas
 
-<!--
-**LucasdeCastro/lucasdecastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, Nerd, Geek and I love dogs!
 
-Here are some ideas to get you started:
+- 🌱  I’m currently learning everything 🤣
+- 🥅  2020 Goals: Contribute more to Open Source projects
+- ⚡  Fun fact: I love books and cold mornings
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lucas-de-castro-lima/)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lucascastrolima)
+
+<br />
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucasdecastro&show_icons=true&hide_border=true" />
+</details>
