@@ -21,6 +21,7 @@
 - [game-of-life](https://lucasdecastro.github.io/game-of-life/)
 - [sound-test](https://lucasdecastro.github.io/sound-test/)
 - [corona-timer](https://lucasdecastro.github.io/corona-timer/) It's just a counter of my days in quarantine.
+- [github-favourites](http://lucasdecastro.github.io/github-favourites)
 
 <br />
 <br />
