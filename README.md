@@ -18,6 +18,8 @@
 
 - [github-careers](https://lucasdecastro.github.io/github-careers/#/) It's a project to help people to find a job.
 - [snake-game](https://lucasdecastro.github.io/snake-game/) It's one day project.
+- [game-of-life](https://lucasdecastro.github.io/game-of-life/)
+- [sound-test](https://lucasdecastro.github.io/sound-test/)
 - [corona-timer](https://lucasdecastro.github.io/corona-timer/) It's just a counter of my days in quarantine.
 
 <br />
