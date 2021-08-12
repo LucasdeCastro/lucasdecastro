@@ -3,7 +3,7 @@
 ## I'm a Developer, Nerd, Geek and I love dogs!
 
 - 🌱  I’m currently learning everything 🤣
-- 🥅  2020 Goals: Contribute more to Open Source projects
+- 🥅  2021 Goals: Contribute more to Open Source projects
 - ⚡  Fun fact: I love books and cold mornings
 
 ### Connect with me:
