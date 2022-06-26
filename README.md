@@ -17,15 +17,7 @@
 
 - [github-careers](https://lucasdecastro.github.io/github-careers/#/) It's a project to help people to find a job.
 - [snake-game](https://lucasdecastro.github.io/snake-game/) It's one day project.
-- [game-of-life](https://lucasdecastro.github.io/game-of-life/)
-- [sound-test](https://lucasdecastro.github.io/sound-test/)
+- [game-of-life](https://lucasdecastro.github.io/game-of-life/) My implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+- [sound-test](https://lucasdecastro.github.io/sound-test/) I create this application because of this [video](https://www.youtube.com/watch?v=uoxtAXN2tnI)
 - [corona-timer](https://lucasdecastro.github.io/corona-timer/) It's just a counter of my days in quarantine.
 - [github-favourites](http://lucasdecastro.github.io/github-favourites)
-
-<br />
-<br />
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucasdecastro&show_icons=true&hide_border=true" />
-</details>
