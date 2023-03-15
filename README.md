@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Lucas
 
-## I'm a Developer, Nerd, Geek and I have one dogs!
+## I'm a Developer, Nerd, Geek and I have a dog!
 
 - 🌱  I’m currently learning everything 🤣
 - 🥅  2022 Goals: Contribute more to Open Source projects
