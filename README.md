@@ -3,7 +3,7 @@
 ## I'm a Developer, Nerd, Geek and I have a dog!
 
 - 🌱  I’m currently learning everything 🤣
-- 🥅  2022 Goals: Contribute more to Open Source projects
+- 🥅  2024 Goals: Contribute more to Open Source projects
 - ⚡  Fun fact: I love books and cold mornings
 
 ### Connect with me:
@@ -16,6 +16,7 @@
 ### Fun projects
 
 - [github-careers](https://lucasdecastro.github.io/github-careers/#/) It's a project to help people to find a job.
+- [sudoku](https://lucasdecastro.github.io/sudoku)
 - [snake-game](https://lucasdecastro.github.io/snake-game/) It's one day project.
 - [game-of-life](https://lucasdecastro.github.io/game-of-life/) My implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - [sound-test](https://lucasdecastro.github.io/sound-test/) I create this application because of this [video](https://www.youtube.com/watch?v=uoxtAXN2tnI)
