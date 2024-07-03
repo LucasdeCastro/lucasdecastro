@@ -15,7 +15,7 @@
 
 ### Fun projects
 
-- [github-careers](https://lucasdecastro.github.io/github-careers/#/) It's a project to help people to find a job.
+- [github-careers](https://lucasdecastro.github.io/github-careers/#/) It's a project that helps people find jobs.
 - [sudoku](https://lucasdecastro.github.io/sudoku)
 - [snake-game](https://lucasdecastro.github.io/snake-game/) It's one day project.
 - [game-of-life](https://lucasdecastro.github.io/game-of-life/) My implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
